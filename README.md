@@ -8,7 +8,7 @@ The goal of this project is to revive the classic game Social Empires for fans. 
 
 | Version | Release date | Download |
 | --- | --- | --- |
-| **alpha 0.0?a** | ???????? ??, ???? | :package: [Bundle]() |
+| **alpha 0.0?a** | ???????? ??, ???? | 🖥️ [Client]() |
 
 📦 For older versions check [this](RELEASES.md).
 
