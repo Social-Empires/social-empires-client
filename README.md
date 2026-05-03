@@ -2,15 +2,7 @@
 
 The goal of this project is to revive the classic game Social Empires for fans. It is dedicated to preserving the original Flash experience and, at the same time, continuing its development within the game itself.
 
----
 
-# Game Download
-
-| Version | Release date | Download |
-| --- | --- | --- |
-| **alpha 0.0?a** | ???????? ??, ???? | 🖥️ [Client]() |
-
-📦 For older versions check [this](RELEASES.md).
 
 ---
 
