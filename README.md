@@ -6,9 +6,9 @@ The goal of this project is to revive the classic game Social Empires for fans. 
 # Installation
 
 ## Easy Installation:
-- Download a Flash-compatible browser. 🔦 **Recommended:** [Chromium 82.0](https://chromium.en.uptodown.com/windows/download/2181158)
+- Download a Flash-compatible browser. 🔦 **Recommended:** [FlashBrowser](https://github.com/radubirsan/FlashBrowser/releases/tag/v0.81)
 - Install [Flash Player 32.0.0.371](https://archive.org/download/flashplayerarchive/pub/flashplayer/installers/archive/fp_32.0.0.371_archive.zip/32_0_r0_371%2Fflashplayer32_0r0_371_winpep.exe) and restart your browser.
-- Download the latest launcher version from the [Game Download](#game-download) section.
+- Download the latest client version from the [Releases] section.
 - Extract the downloaded ZIP file into a folder somewhere easily accessible.
 - Run the `Social Empires.exe` executable.
 - Open your Flash-compatible browser and go to: `http://127.0.0.1:5050/`
