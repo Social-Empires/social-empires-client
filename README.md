@@ -1,9 +1,6 @@
 # Overview
 
 The goal of this project is to revive the classic game Social Empires for fans. It is dedicated to preserving the original Flash experience and, at the same time, continuing its development within the game itself.
-
-
-
 ---
 
 # Installation
@@ -22,6 +19,6 @@ The goal of this project is to revive the classic game Social Empires for fans. 
 
 ```
 Social Empires preservation project.
-Copyright (C) 2022  The Social Emperors team
+Copyright (C) 2022 by vurzk-dev
 See the GNU General Public License <https://www.gnu.org/licenses/>.
 ```
